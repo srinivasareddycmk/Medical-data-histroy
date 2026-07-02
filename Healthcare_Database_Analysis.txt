@@ -1,0 +1,74 @@
+HEALTHCARE DATABASE ANALYSIS USING SQL
+
+Prepared By: SRINIVASAREDDY K
+Project Team ID: PTID-CDA-MAY-26-11247
+Project ID: PRSQL-02
+Date: 02-06-2026
+
+INTRODUCTION
+This project focuses on analyzing healthcare data using SQL.
+The database contains information about patients, admissions,
+doctors, and provinces. SQL queries are used to extract
+meaningful insights from the data.
+
+OBJECTIVES
+- Analyze patient records.
+- Extract healthcare insights.
+- Practice SQL queries from basic to advanced.
+- Understand real-world database usage.
+
+DATABASE OVERVIEW
+Tables Used:
+1. Patients
+2. Admissions
+3. Doctors
+4. Province Names
+
+SQL CONCEPTS USED
+- SELECT statements
+- WHERE clause
+- LIKE operator
+- BETWEEN operator
+- INNER JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- CASE Statements
+- HAVING Clause
+- Date Functions
+
+ANALYSIS PERFORMED
+- Patient demographic analysis
+- Gender distribution analysis
+- Disease analysis
+- Admission pattern analysis
+- BMI-based obesity identification
+- Repeated diagnosis analysis
+
+KEY FINDINGS
+- Patient records were analyzed successfully.
+- Common diseases were identified.
+- Gender distribution was studied.
+- Admission trends were analyzed.
+- Location-wise patient distribution was examined.
+
+CHALLENGES FACED
+- Understanding table relationships
+- Writing complex SQL queries
+- Handling NULL values
+- Debugging SQL errors
+
+CONCLUSION
+SQL is an effective tool for healthcare data analysis.
+The project helped generate useful insights and improved
+database querying skills.
+
+FUTURE SCOPE
+- Integrate Power BI dashboards
+- Add real-time healthcare data
+- Develop interactive visualizations
+
+REFERENCES
+- SQL Documentation
+- Database Learning Resources
+- Healthcare Sample Datasets
